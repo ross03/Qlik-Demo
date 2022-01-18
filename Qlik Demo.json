@@ -1,0 +1,21 @@
+
+SHEETS
+{"qInfo":{"qId":"f027be59-9301-41aa-bfcd-9685193da852","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"f027be59-9301-41aa-bfcd-9685193da852","approved":false,"published":true,"owner":"auth0|a08D000001AXwx6IAD","ownerId":"J1AKlQoD2b1sZWk_MCrv6tXtJT6KFM3h","createdDate":"2022-01-14T09:34:38.093Z","modifiedDate":"2022-01-18T09:08:57.064Z","publishTime":"2022-01-18T09:08:57.064Z","privileges":["read","publish"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"eZsjLd","type":"barchart","col":0,"row":0,"colspan":12,"rowspan":7,"bounds":{"y":0,"x":0,"width":50,"height":58.333333333333336}}
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Test Data","qCardinal":1816,"qTags":["$numeric","$integer"],"qSrcTables":["TestData"]}
